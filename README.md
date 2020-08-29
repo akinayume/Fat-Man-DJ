@@ -1,12 +1,13 @@
 # <div align="center">FatManDJ</div>
 <p align="center">
   <font face="grey">Go Straight.</font>
-  [我的博客](https://blog.fatdev.name)/
-  [GitHub](/Fat-Man-DJ)/
-  [Bilibili](https://space.bilibili.com/452478240)
+
 
 </p>
-  
+
+[我的博客](https://blog.fatdev.name)/
+[GitHub](/Fat-Man-DJ)/
+[Bilibili](https://space.bilibili.com/452478240)
 
 项目：
 
@@ -24,6 +25,3 @@
 
 ---
 
-擅长
-
-Python,HTML
