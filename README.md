@@ -7,7 +7,9 @@
 [FatManDJ](https://blog.fatdev.name)
 
 项目：
-[IINX - a clear simple hexo theme](/hexo-theme-iinx)
+[IINX - a clear simple hexo theme](/Fat-Man-DJ/hexo-theme-iinx)
 
-[FlaskStatic - 网页生成器](/FlaskStatic)
+[FlaskStatic - 网页生成器](/Fat-Man-DJ/FlaskStatic)
+
+
 
