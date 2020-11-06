@@ -2,6 +2,7 @@
 <p align="center">
   <font face="grey">Go Straight.</font>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=fat-man-dj&show_icons=true" title="FatManDJ's Stats" alt="fatmandj's github stats" />
 
 </p>
 
