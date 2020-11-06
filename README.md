@@ -1,7 +1,7 @@
 # <div align="center">FatManDJ</div>
 <p align="center">
   <font face="grey">Go Straight.</font>
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=fat-man-dj&show_icons=true" title="FatManDJ's Stats" alt="fatmandj's github stats" />
 
 </p>
