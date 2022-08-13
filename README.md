@@ -6,7 +6,7 @@
 
 </p>
 
-[我的博客](https://blog.fatdev.name)/
+[我的博客](https://nefrisk.vercel.app)/
 [GitHub](/Fat-Man-DJ)/
 [Bilibili](https://space.bilibili.com/452478240)
 
